@@ -19,7 +19,7 @@ public class Practical2 {
         
         
         
-        System.out.printf("hello", args);
+        System.out.printf("hello world \n", args);
         
     }
     
